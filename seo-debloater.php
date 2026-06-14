@@ -1,17 +1,17 @@
 <?php
 /**
- * Plugin Name: 		SEO Debloater
- * Plugin URI:  		https://butialabs.com
- * Description:			Hide most of the bloat that the Yoast SEO plugin adds to your WordPress Dashboard
- * Version:     		1.0.1
- * Author:				Butiá Labs
- * Author URI:  		https://butialabs.com
- * License:    			GPL-3.0+
- * License URI:			http://www.gnu.org/licenses/gpl-3.0.txt
- * Domain Path: 		/languages
- * Text Domain: 		seo-debloater
- * Network:     		true
- * GitHub Plugin URI:	https://github.com/butialabs/seo-debloater
+ * Plugin Name:       SEO Debloater
+ * Plugin URI:        https://github.com/butialabs/seo-debloater
+ * Description:       Hide most of the bloat that the Yoast SEO plugin adds to your WordPress Dashboard
+ * Version:           1.0.1
+ * Requires at least: 6.5
+ * Tested up to:      7.0
+ * Requires PHP:      8.2
+ * Author:            Butiá Labs
+ * Author URI:        https://butialabs.com
+ * License:           GPL-2.0-or-later
+ * Text Domain:       seo-debloater
+ * Domain Path:       /languages
  */
 
 // don't load the plugin file directly

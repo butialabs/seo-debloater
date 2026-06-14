@@ -1,13 +1,12 @@
 === SEO Debloater ===
 Contributors: butialabs
-Donate link: https://butialabs.com
 Tags: seo, cleanup, bloat, hide, dashboard
-Requires at least: 4.9
+Requires at least: 6.5
 Tested up to: 7.0
-Stable tag: 1.0.1
-Requires PHP: 7.0
-License: GPLv3
-License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Requires PHP: 8.2
+Stable tag: 1.0.0
+License: GPL-2.0-or-later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Hide most of the bloat that the Yoast SEO plugin adds to your WordPress Dashboard.
 

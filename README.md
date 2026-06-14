@@ -1,15 +1,10 @@
 # SEO Debloater
 
-###### Last updated on January 27, 2026
-###### Development version 1.0.1
-###### requires at least WordPress 4.9
-###### tested up to WordPress 6.9
-###### Author: [Butiá Labs](https://butialabs.com)
 ###### Original Author: [Pieter Bos](https://github.com/senlin)
 
-## Description
-
 Free addon for the Yoast SEO plugin to hide the bloat it adds to your WordPress backend.
+
+## Description
 
 > **Note:** This plugin is a fork of the original [Hide SEO Bloat](https://github.com/senlin/so-clean-up-wp-seo) plugin (also known as "SO Clean Up Yoast SEO") created by Pieter Bos.
 
