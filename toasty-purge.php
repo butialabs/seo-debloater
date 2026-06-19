@@ -3,7 +3,7 @@
  * Plugin Name:       Toasty Purge
  * Plugin URI:        https://github.com/butialabs/toasty-purge
  * Description:       Hide most of the bloat that the Yoast SEO plugin adds to your WordPress Dashboard
- * Version:           0.0.3
+ * Version:           1.0.0
  * Requires at least: 6.5
  * Tested up to:      7.0
  * Requires PHP:      8.2
